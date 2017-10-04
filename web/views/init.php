@@ -3,6 +3,6 @@
 
     <?php
 
-    echo '<h1>'.'nueva pagina'.'</h1>';
+    echo 'nuevos datos';
 
 ?>
