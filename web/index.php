@@ -22,9 +22,6 @@ $app->get('/', function() use($app) {
   return $app['twig']->render('index.twig');
 });
 
-$app->get('/init', function() use($app) {
-  $app['monolog']->addDebug('logging output.');
-  return $app['twig']->render('index2.twig');
-});
+
 
 $app->run();
