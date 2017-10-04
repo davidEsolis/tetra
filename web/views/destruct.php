@@ -1,3 +1,8 @@
+
+<?php
+$d = "david eduardo";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +12,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>destruccion ferrea</h1>
+    <h1><?php echo $d; ?></h1>
 </body>
 </html>
