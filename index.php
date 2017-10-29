@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Creacion de documentos</title>
+    <title>XacuLabs</title>
 
     <style>
     a{
@@ -29,18 +29,14 @@
 <header>
 <nav>
         <ul>
-                        <li><a href="index.php"><span class="icon-home-1" ></span> Inicio |</a></li>
-                        <li><a href="#" ><span class="icon-atom" ></span> <?php echo " ".$usu ?></a>
-                            <ul>
-                                <li><a href="vistas/verPerfil.php"><span class="icon-coffee-streamline" ></span> Perfil</a></li>
-                                <li><a href=""><span class="icon-settings" ></span> Configuraciones</a>
-                                    <ul>
-                                        <li><a href=""><span class="icon-rocket" ></span> Ayuda</a></li>
-                                        <li><a href="salir.php"><span class="icon-moon" ></span> Salir</a></li>
-                                    </ul>
-                            </ul>
-                                </li>
-                        <li><a href=""><span class="icon-chart-line" ></span> Materias |</a></li> 
+            <li><a href="index.php"><span class="icon-home-1" ></span> Inicio |</a></li>
+            <li><a href="#" ><span class="icon-atom" ></span> <?php echo " ".$usu ?></a>
+                <ul>
+                    <li><a href="vistas/verPerfil.php"><span class="icon-coffee-streamline" ></span> Perfil</a></li>
+                    <li><a href=""><span class="icon-chart-line" ></span> Materias |</a></li> 
+                    <li><a href=""><span class="icon-settings" ></span> Configuraciones</a>
+                
+                </li>                   
         </ul>
  </nav>
 </header>
