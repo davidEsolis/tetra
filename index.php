@@ -28,7 +28,7 @@
 
 <header>
 <nav>
- <ul>
+        <ul>
                         <li><a href="index.php"><span class="icon-home-1" ></span> Inicio |</a></li>
                         <li><a href="#" ><span class="icon-atom" ></span> <?php echo " ".$usu ?></a>
                             <ul>
@@ -41,7 +41,7 @@
                             </ul>
                                 </li>
                         <li><a href=""><span class="icon-chart-line" ></span> Materias |</a></li> 
-                    </ul>
+        </ul>
  </nav>
 </header>
  
