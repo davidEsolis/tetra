@@ -126,7 +126,12 @@ Contribuir en auxiliar al inicio de mi proyecto, en apoyar a el alumnado en la f
 <script>
     Push.create("hola we", {
         body: "hola david aqui te mando un mensaje",
-        icon: "img/david.jpg"
+        icon: "img/david.jpg",
+        timeout: 4000,
+        onClick: function(){
+            window.url="papa.php";
+            this.close();
+        }
     });
 </script>
       </section>
