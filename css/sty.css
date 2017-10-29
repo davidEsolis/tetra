@@ -1,0 +1,10 @@
+@font-face {
+    font-family: pit;
+    src: url(../CaviarDreams.ttf);
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'pit', sans-serif;
+}
