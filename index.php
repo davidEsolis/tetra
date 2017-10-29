@@ -12,7 +12,7 @@
     }
     </style>
      
-   
+    <link rel="stylesheet" href="css/sty.css">
     <link href="https://file.myfontastic.com/g3LYwuYrqLK8Mz9Nf7FKeV/icons.css" rel="stylesheet">
     
     <!--meta:vp--><meta name="viewport" content="width=device-width, initial-scale=1.0">
