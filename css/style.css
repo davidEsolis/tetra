@@ -44,7 +44,7 @@ header nav .nav li a:hover{
     background: rgba(4, 3, 10, 0.658)
 }
 
-header .nav li ul {
+header nav .nav li ul {
     transition: all 0.80s;
     display: none;
     position: absolute;
@@ -52,12 +52,12 @@ header .nav li ul {
 
 }
 
-header .nav > li{
+header nav .nav > li{
     float: left;
     
    }
    
-   header .nav li ul {
+   header nav .nav li ul {
        transition: all 0.80s;
        display: none;
        position: absolute;
@@ -66,17 +66,17 @@ header .nav > li{
    
    }
    
-   header .nav li:hover > ul{
+   header nav .nav li:hover > ul{
        display: block;
        transition: all 0.80s;
    
    }
-   header .nav li ul li{
+   header nav .nav li ul li{
        position: relative;
        transition: all 0.80s;
    }
    
-   header  .nav li ul li ul {
+   header nav .nav li ul li ul {
        transition: all 0.80s;
        position: relative;
        right: -80px;
