@@ -129,7 +129,7 @@ Contribuir en auxiliar al inicio de mi proyecto, en apoyar a el alumnado en la f
         icon: "img/david.jpg",
         timeout: 4000,
         onClick: function(){
-            window.url="papa.php";
+            window.location="papa.php";
             this.close();
         }
     });
