@@ -11,8 +11,6 @@
 
 /*________________________________________________________*/
 header{
-    margin:auto;
-    position: fixed;
     width: 100%;
     background-color: #9c29a1;
 }
@@ -20,69 +18,29 @@ header nav{
  width: 90%;
  max-width: 1000px;
  margin: 20px auto;
- background-color: #9c29a1;
+ background: #9c29a1;
 }
-ul, ol{
-    list-style: none;
+.menu-bar{
+    display: none;
 }
 
-header nav .nav{
+header nav ul{
     overflow: hidden;
     list-style: none;
 }
-header nav .nav li{
+header nav ul li{
     float: left;
 
 }
-header nav .nav li a{
+header nav ul li a{
     color: #fff;
     padding: 20px;
     display: block;
     text-decoration: none;
 }
-header nav .nav li a:hover{
-    background: rgba(4, 3, 10, 0.658)
+header nav ul li span{
+    margin-right: 10px;
 }
-
-header nav .nav li ul {
-    transition: all 0.80s;
-    display: none;
-    position: absolute;
-    min-width: 140px;
-
-}
-
-header nav .nav > li{
-    float: left;
-    
-   }
-   
-   header nav .nav li ul {
-       transition: all 0.80s;
-       display: none;
-       position: absolute;
-       min-width: 140px;
-     
-   
-   }
-   
-   header nav .nav li:hover > ul{
-       display: block;
-       transition: all 0.80s;
-   
-   }
-   header nav .nav li ul li{
-       position: relative;
-       transition: all 0.80s;
-   }
-   
-   header nav .nav li ul li ul {
-       transition: all 0.80s;
-       position: relative;
-       right: -80px;
-       top: 0px;
-       transition: all 0.5s;
-   }
 
 /*________________________________________________________*/
 
