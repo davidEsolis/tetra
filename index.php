@@ -27,6 +27,9 @@
   
 
 <header>
+    <div class="menu-bar">
+        <a href="" class="bt-menu"><span class="icon-list"></span></a>
+    </div>
 <nav>
         <ul>
             <li><a href="index.php"><span class="icon-home-1" ></span> Inicio |</a></li>
