@@ -129,7 +129,8 @@ Contribuir en auxiliar al inicio de mi proyecto, en apoyar a el alumnado en la f
         icon: "img/david.jpg",
         timeout: 4000,
         onClick: function(){
-            window.location="papa.php";
+            //window.location="papa.php";
+            window.location="https://www.facebook.com/ILikeMyLife1000110100011100111010";
             this.close();
         }
     });
