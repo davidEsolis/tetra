@@ -10,6 +10,10 @@
     a{
         font-weight: bold;
     }
+    #vals{
+        color: #000;
+    padding: 100px;
+    }
     </style>
      
     <link rel="stylesheet" href="css/sty.css">
@@ -19,10 +23,7 @@
 </head>
 <body style="background: #979797" >
     <script src="js/push.min.js"></script>
-    <?php
-
     
-    ?>
     
     <!--AQUI SE ENCUENTRA EL MENÚ -->
   
@@ -125,6 +126,7 @@ Los resultados obtenidos durante la estancia en la facultad de Derecho y Ciencia
 Contribuir en auxiliar al inicio de mi proyecto, en apoyar a el alumnado en la facultad de Derecho y Ciencia Política. que realizan sus actividades de Brigadistas en la unidad receptora, asi como al Coordinador o responsable de la misma.
 <?php
 $tm = '
+<div id="vals">
 <script>
 Push.create("hola we", {
     body: "hola david aqui te mando un mensaje",
@@ -137,10 +139,12 @@ Push.create("hola we", {
     }
 });
 </script>
+</div>
+
     ';
 
     echo $tm;
-
+      
     ?>
       </section>
 </body>
