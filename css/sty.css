@@ -4,8 +4,19 @@
 }
 
 *{
-    padding: 0px;
     margin: 0px;
+    padding: 0px;
     font-family: 'pit', sans-serif;
+}
+
+header{
+    width: 100%;
+}
+header nav {
+    width: 90%;
+    max-width: 1000px;
+   margin: 20px auto;
+   background: #9c29a1;
+
 }
 

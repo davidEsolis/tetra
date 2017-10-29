@@ -28,7 +28,7 @@
 
 <header>
     <div class="menu-bar">
-        <a href="" class="bt-menu"><span class="icon-list"></span></a>
+        <a href="" class="bt-menu"><span class="icon-list2"></span>Menu</a>
     </div>
 <nav>
         <ul>
