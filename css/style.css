@@ -10,37 +10,37 @@
 }
 
 /*________________________________________________________*/
-#header{
+header{
     width: 100%;
     background-color: #9c29a1;
 }
-#header nav{
+header nav{
  width: 100%;
  max-width: 100px;
  margin: 20px auto;
  background-color: #9c29a1;
 }
 
-#header nav{
+header nav{
     overflow: hidden;
     list-style: none;
 
     transition: all 0.80s;
 }
-#header nav ul li{
+header nav ul li{
     float: left;
 
 }
-#header nav ul li a{
+header nav ul li a{
     color: #fff;
     padding: 20px;
     display: block;
     text-decoration: none;
 }
-#header nav ul li span{
+header nav ul li span{
     margin-right: 10px;
 }
-#header nav ul li a:hover{
+header nav ul li a:hover{
     background: rgba(4, 3, 10, 0.658)
 }
 /*________________________________________________________*/

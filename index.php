@@ -26,8 +26,8 @@
     <!--AQUI SE ENCUENTRA EL MENÚ -->
   
 
- <div class="header">
- <nav>
+<header>
+<nav>
  <ul>
                         <li><a href="index.php"><span class="icon-home-1" ></span> Inicio |</a></li>
                         <li><a href="#" ><span class="icon-atom" ></span> <?php echo " ".$usu ?></a>
@@ -43,8 +43,9 @@
                         <li><a href=""><span class="icon-chart-line" ></span> Materias |</a></li> 
                     </ul>
  </nav>
-                     
-</div>
+</header>
+ 
+
     <!-- -->
     
        <!--AQUI SE TERMINA EL MENÚ -->
