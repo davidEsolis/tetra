@@ -1,19 +1,3 @@
-<?php include "app/conexion.php"; ?>
-<?php
-function getNameById($id){
-            global $conexion;
-
-            $sql = "SELECT nombreUsuario FROM alums WHERE id = '$id'";
-            $result = mysqli_query($conexion, $sql);
-
-            if($result){
-                $row = mysqli_fetch_assoc($result);
-                return $row['nombreUsuario'];
-            } else{
-                echo "Error al leer el nombre de usuario -> " . mysqli_error($conexion);
-            }
-        }
-?>
 
 
 <!DOCTYPE html>
@@ -36,18 +20,7 @@ function getNameById($id){
 <body style="background: #979797" >
     <?php
 
-    $idUsuario = "";
-    $usu = ""; 
     
-        if(isset($_COOKIE['id']) && isset($_COOKIE['usuario'])){
-            $idUsuario = isset($_COOKIE['id']);
-            $usu = $_COOKIE['usuario'];
-          // echo($idUsuario." id del usuario en sesion");
-
-           //echo("<div class="nav"><br> <li><a href='#'>".$usu."</a></li></div>");
-           
-        }
-
     ?>
     
     <!--AQUI SE ENCUENTRA EL MENÚ -->
