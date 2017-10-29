@@ -17,6 +17,40 @@ header nav {
     max-width: 1000px;
    margin: 20px auto;
    background: #9c29a1;
-
 }
+
+.menu-bar{
+    display: none;
+}
+header nav ul {
+    overflow: hidden;
+    list-style: none;
+}
+
+header nav ul li {
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
