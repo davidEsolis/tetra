@@ -124,7 +124,9 @@ Los resultados obtenidos durante la estancia en la facultad de Derecho y Ciencia
 
 Contribuir en auxiliar al inicio de mi proyecto, en apoyar a el alumnado en la facultad de Derecho y Ciencia Política. que realizan sus actividades de Brigadistas en la unidad receptora, asi como al Coordinador o responsable de la misma.
 <script>
-    Push.create("hola we");
+    Push.create("hola we", {
+        body: "hola david aqui te mando un mensaje";
+    });
 </script>
       </section>
 </body>
