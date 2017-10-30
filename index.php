@@ -38,10 +38,9 @@
                 <ul>
                     <li><a href="vistas/verPerfil.php"><span class="icon-coffee-streamline" ></span> Perfil</a></li>
                     <li><a href=""><span class="icon-chart-line" ></span> Materias |</a></li> 
-                    <li><a href=""><span class="icon-settings" ></span> Configuraciones</a>
-                
-                </li>                   
-        </ul>
+                    <li><a href=""><span class="icon-settings" ></span> Configuraciones</a></li>  
+                </ul>
+            </li>  
  </nav>
 </header>
  
