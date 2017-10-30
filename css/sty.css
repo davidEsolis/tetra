@@ -40,7 +40,7 @@ header nav ul li span{
     margin-right: 10px;
 }
 header nav ul li a:hover{
-    background: rgba(4, 3, 10, 0.658)
+    background: rgba(4, 3, 10, 0.658);
 }
 
 section{
@@ -60,7 +60,8 @@ section{
     font-size: 25px;
     padding: 0px;
 
-}[class="icon-home-1"]:before{
+}
+[class="icon-home-1"]:before{
     position: relative;
     color: rgba(255, 255, 255, 0.815);
     font-size: 25px;
