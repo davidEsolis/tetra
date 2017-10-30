@@ -27,11 +27,11 @@
     <!--AQUI SE ENCUENTRA EL MENÚ -->
   
 
-<header>
+<div id="header">
     <div class="menu-bar">
         <a href="" class="bt-menu"><span class="icon-list2"></span>Menu</a>
     </div>
-<nav>
+<div class="nav">
     <ul>
             <li><a href="index.php"><span class="icon-home-1" ></span> Inicio |</a></li>
             <li><a href="#" ><span class="icon-atom" ></span> <?php echo " ".$usu ?></a></li>
@@ -39,8 +39,8 @@
             <li><a href=""><span class="icon-settings" ></span> Configuraciones</a></li>  
             <li><a class="icon-moon"href="salir.php"> Salir</a></li>
      </ul>
- </nav>
-</header>
+</div>
+</div>
  
 
     <!-- -->
