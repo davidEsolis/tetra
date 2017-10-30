@@ -40,14 +40,14 @@ header nav ul li span{
     margin-right: 10px;
 }
 header nav ul li a:hover{
-    background: rgba(4, 3, 10, 0.658);
+    background: rgba(4, 3, 10, 0.377);
 }
 
 section{
     padding: 20px;
 }
 
-@media(max-width:800px){
+@media(min-width:800px){
     header nav {
         width: 80%;
         height: 100%;
