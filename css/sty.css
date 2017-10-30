@@ -27,6 +27,7 @@ header nav {
 header nav ul {
     overflow: hidden;
     list-style: none;
+    display: none;
 }
 
 header nav ul li {
