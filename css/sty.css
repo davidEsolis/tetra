@@ -10,10 +10,10 @@
 }
 
 
-#header{
+header{
     width: 100%;
 }
-#header .nav {
+header nav {
     width: 95%;
     max-width: 1000px;
    margin: 20px auto;
@@ -24,31 +24,59 @@
 .menu-bar{
     display: none;
 }
-#header .nav ul {
+header nav ul {
     overflow: hidden;
     list-style: none;
     left: 30%;
 }
+.nav li a:hover{
+    background-color: #34091C;
+    transition: all 0.80s;
 
-#header .nav ul li a{
+}
+.nav > li{
+ float: left;
+ 
+}
+
+.nav li ul {
+    transition: all 0.80s;
+    display: none;
+    position: absolute;
+    min-width: 140px;
+  
+
+}
+
+.nav li:hover > ul{
+    display: block;
+    transition: all 0.80s;
+
+}
+.nav li ul li{
+    position: relative;
+    transition: all 0.80s;
+}
+
+header nav ul li a{
     color: #fff;
     padding: 20px;
     display: block;
     text-decoration: none;
 }
-#header .nav ul li span{
+header nav ul li span{
     margin-right: 10px;
 }
-#header .nav ul li a:hover{
-    background: rgba(4, 3, 10, 0.377);
+header nav ul li a:hover{
+    background: rgba(4, 3, 10, 0.658);
 }
 
 section{
     padding: 20px;
 }
 
-@media(min-width:800px){
-    #header .nav {
+@media screen and (max-width:800px){
+    header nav {
         width: 80%;
         height: 100%;
         margin: 0;
