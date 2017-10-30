@@ -14,7 +14,7 @@ header{
     width: 100%;
 }
 header nav {
-    width: 90%;
+    width: 95%;
     max-width: 1000px;
    margin: 20px auto;
    background: #9c29a1;
@@ -27,6 +27,7 @@ header nav {
 header nav ul {
     overflow: hidden;
     list-style: none;
+    left: 30%;
 }
 
 header nav ul li a{
