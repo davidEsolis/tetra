@@ -18,7 +18,7 @@ header nav {
     max-width: 1000px;
    margin: 20px auto;
    background: #9c29a1;
-   position: fixed;
+   position: absolute;
 }
 
 .menu-bar{
@@ -27,7 +27,6 @@ header nav {
 header nav ul {
     overflow: hidden;
     list-style: none;
-    display: none;
 }
 
 header nav ul li {
