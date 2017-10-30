@@ -32,9 +32,8 @@
         <a href="" class="bt-menu"><span class="icon-list2"></span>Menu</a>
     </div>
 <nav>
-    <ul>
-        
-    <li><a href="index.php"><span class="icon-home-1" ></span> Inicio |</a></li>
+    <ul class="nav">
+            <li><a href="index.php"><span class="icon-home-1" ></span> Inicio |</a></li>
             <li><a href="#" ><span class="icon-atom" ></span> <?php echo " ".$usu ?></a>
                 <ul>
                     <li><a href="vistas/verPerfil.php"><span class="icon-coffee-streamline" ></span> Perfil</a></li>

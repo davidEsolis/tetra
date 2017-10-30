@@ -29,9 +29,37 @@ header nav ul {
     list-style: none;
 }
 
-header nav ul li {
+.nav > li{
     float: left;
-}
+    
+   }
+   
+   .nav li ul {
+       transition: all 0.80s;
+       display: none;
+       position: absolute;
+       min-width: 140px;
+     
+   
+   }
+   
+   .nav li:hover > ul{
+       display: block;
+       transition: all 0.80s;
+   
+   }
+   .nav li ul li{
+       position: relative;
+       transition: all 0.80s;
+   }
+   
+   .nav li ul li ul {
+       transition: all 0.80s;
+       position: relative;
+       right: -80px;
+       top: 0px;
+       transition: all 0.5s;
+   }
 
 header nav ul li ul{
     transition: all 0.80s;
