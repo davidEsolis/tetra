@@ -32,15 +32,17 @@
         <a href="" class="bt-menu"><span class="icon-list2"></span>Menu</a>
     </div>
 <nav>
-    <ul class=".nav">
+    <ul class="nav">
             <li><a href="index.php"><span class="icon-home-1" ></span> Inicio |</a></li>
             <li><a href="#" ><span class="icon-atom" ></span> <?php echo " ".$usu ?></a></li>
             <li><a href=""><span class="icon-chart-line" ></span> Materias |</a></li> 
             <li><a href=""><span class="icon-settings" ></span> Configuraciones</a>  
-                <ul>
-                <li><a class="icon-moon"href="salir.php"> Salir</a></li>
-                </ul>
-            </li>
+            
+        <ul>
+        <li><a class="icon-moon"href="salir.php"> Salir</a>       </li>
+        </ul>
+        </li>
+     
         </ul>
  </nav>
 </header>
