@@ -10,10 +10,6 @@
     a{
         font-weight: bold;
     }
-    #vals{
-        color: #000;
-    padding: 100px;
-    }
     </style>
      
     <link rel="stylesheet" href="css/sty.css">
@@ -23,7 +19,10 @@
 </head>
 <body style="background: #979797" >
     <script src="js/push.min.js"></script>
+    <?php
+
     
+    ?>
     
     <!--AQUI SE ENCUENTRA EL MENÚ -->
   
@@ -124,28 +123,19 @@ VI. Resultados obtenidos:
 Los resultados obtenidos durante la estancia en la facultad de Derecho y Ciencia Política,- Los Mochis. área de servicio Social, para la realización del proyecto de servicio social, correspondientes al periodo del 07 al 28 de Febrero de 2017.
 
 Contribuir en auxiliar al inicio de mi proyecto, en apoyar a el alumnado en la facultad de Derecho y Ciencia Política. que realizan sus actividades de Brigadistas en la unidad receptora, asi como al Coordinador o responsable de la misma.
-<?php
-$tm = '
-<div id="vals">
 <script>
-Push.create("hola we", {
-    body: "hola david aqui te mando un mensaje",
-    icon: "img/david.jpg",
-    timeout: 4000,
-    onClick: function(){
-        //window.location="papa.php";
-        window.location="https://www.facebook.com/ILikeMyLife1000110100011100111010";
-        this.close();
-    }
-});
+    Push.create("hola we", {
+        body: "hola david aqui te mando un mensaje",
+        icon: "img/david.jpg",
+        timeout: 4000,
+        onClick: function(){
+            //window.location="papa.php";
+            window.location="https://www.facebook.com/ILikeMyLife1000110100011100111010";
+            this.close();
+        }
+    });
 </script>
-</div>
 
-    ';
-
-    echo $tm;
-      
-    ?>
       </section>
 </body>
 </html>
