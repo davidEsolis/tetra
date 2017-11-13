@@ -1,0 +1,28 @@
+{
+    "datos":[
+        {"id":"1","nombreUsuario":"alphahs","nom_alumn":"david eduardo garcia","email":"alphahs@outlook.com","celular":"8127688","num_c":"9038957","grado":"5","grupo":"3","fecha":"2017-10-04 04:09:09","pass":"444","estado":"1"},
+        {"id":"2","nombreUsuario":"obed","nom_alumn":"Obed Isal Diaz ","email":"Obed_Isal99@hotmail.","celular":"2147483647","num_c":"15060888","grado":"3","grupo":"15","fecha":"2017-10-29 00:00:00","pass":"123","estado":"1"},
+        {"id":"3","nombreUsuario":"","nom_alumn":"Aracely Rojo Is","email":"araceli_rojo@hotmail","celular":"2147483647","num_c":"1506","grado":"3","grupo":"15","fecha":"2017-10-30 00:00:00","pass":"124","estado":"1"},
+        {"id":"4","nombreUsuario":"","nom_alumn":"Jesus Isai Itig","email":"isaihgrlb@outlook.co","celular":"2147483647","num_c":"15061345","grado":"3","grupo":"15","fecha":"2017-11-01 00:00:00","pass":"125","estado":"1"},
+        {"id":"5","nombreUsuario":"","nom_alumn":"Omar Eduardo Ac","email":"eduardo1810@live.com","celular":"2147483647","num_c":"15061817","grado":"3","grupo":"15","fecha":"2017-11-02 00:00:00","pass":"126","estado":"1"},
+        {"id":"6","nombreUsuario":"","nom_alumn":"Jose Ivan Pollo","email":"jjosee360@gmail.com","celular":"2147483647","num_c":"1506","grado":"3","grupo":"15","fecha":"2017-11-03 00:00:00","pass":"127","estado":"1"},
+        {"id":"7","nombreUsuario":"","nom_alumn":"Velazquez Romer","email":"luznataliavr@gmail.c","celular":"666666666","num_c":"15060731","grado":"3","grupo":"15","fecha":"2017-11-04 00:00:00","pass":"128","estado":"1"},
+        {"id":"8","nombreUsuario":"","nom_alumn":"Castro Santiago","email":"fat_villalobos@hotma","celular":"2147483647","num_c":"1506","grado":"3","grupo":"15","fecha":"2017-11-05 00:00:00","pass":"129","estado":"1"},
+        {"id":"9","nombreUsuario":"","nom_alumn":"Zazueta Lugo Je","email":"alezazueta66@hotmail","celular":"2147483647","num_c":"15062015","grado":"3","grupo":"15","fecha":"2017-11-06 00:00:00","pass":"130","estado":"1"},
+        {"id":"10","nombreUsuario":"","nom_alumn":"Bojorquez Monto","email":"karina_alejandra03@h","celular":"2147483647","num_c":"15062678","grado":"3","grupo":"15","fecha":"2017-11-07 00:00:00","pass":"131","estado":"1"},
+        {"id":"11","nombreUsuario":"","nom_alumn":"Hernandez Aguil","email":"dianag.hernandeza@gm","celular":"2147483647","num_c":"15060535","grado":"3","grupo":"15","fecha":"2017-11-08 00:00:00","pass":"132","estado":"1"},
+        {"id":"12","nombreUsuario":"","nom_alumn":"Melendres Kano ","email":"edalhymh@gmail.com","celular":"2147483647","num_c":"15064905","grado":"3","grupo":"15","fecha":"2017-11-09 00:00:00","pass":"133","estado":"1"},
+        {"id":"13","nombreUsuario":"","nom_alumn":"Gutierrez Higue","email":"dilango_07@hotmail.c","celular":"2147483647","num_c":"1506","grado":"3","grupo":"15","fecha":"2017-11-10 00:00:00","pass":"134","estado":"1"},
+        {"id":"14","nombreUsuario":"","nom_alumn":"Camacho Felix M","email":"liz_cmcho@outlook.co","celular":"2147483647","num_c":"15061620","grado":"3","grupo":"15","fecha":"2017-11-11 00:00:00","pass":"135","estado":"1"},
+        {"id":"15","nombreUsuario":"","nom_alumn":"Almada Heredia ","email":"trinialmada2000@hotm","celular":"2147483647","num_c":"15060705","grado":"3","grupo":"15","fecha":"2017-11-12 00:00:00","pass":"136","estado":"1"},
+        {"id":"16","nombreUsuario":"","nom_alumn":"Antes Favela Jo","email":"josedaniel_antesfave","celular":"2147483647","num_c":"15064220","grado":"3","grupo":"15","fecha":"2017-11-13 00:00:00","pass":"137","estado":"1"},
+        {"id":"17","nombreUsuario":"","nom_alumn":"Jaime Marquez M","email":"mirandalizethj.m@gma","celular":"2147483647","num_c":"15069774","grado":"3","grupo":"15","fecha":"2017-11-14 00:00:00","pass":"138","estado":"1"},
+        {"id":"18","nombreUsuario":"","nom_alumn":"Zamara Perez Bi","email":"bibiana.zamora123@gm","celular":"2147483647","num_c":"15062066","grado":"3","grupo":"15","fecha":"2017-11-15 00:00:00","pass":"139","estado":"1"},
+        {"id":"19","nombreUsuario":"","nom_alumn":"Apodaca Rodirgu","email":"chapo_jorje@outlook.","celular":"2147483647","num_c":"15066991","grado":"3","grupo":"15","fecha":"2017-11-16 00:00:00","pass":"140","estado":"1"},
+        {"id":"20","nombreUsuario":"","nom_alumn":"Valverde Valdez","email":"franciela.valverde@g","celular":"2147483647","num_c":"15063887","grado":"3","grupo":"15","fecha":"2017-11-17 00:00:00","pass":"141","estado":"1"},
+        {"id":"21","nombreUsuario":"","nom_alumn":"Bojorquez Barre","email":"alfredo99@gmail.com","celular":"2147483647","num_c":"15069677","grado":"3","grupo":"15","fecha":"2017-11-18 00:00:00","pass":"142","estado":"1"},
+        {"id":"23","nombreUsuario":"","nom_alumn":"Roman Cervantes","email":"romancervantes.escue","celular":"2147483647","num_c":"1506","grado":"3","grupo":"15","fecha":"2017-11-20 00:00:00","pass":"144","estado":"1"},
+        {"id":"24","nombreUsuario":"","nom_alumn":"Mercado Areniva","email":"fernanda.23arenivas@","celular":"2147483647","num_c":"15062104","grado":"3","grupo":"15","fecha":"2017-11-21 00:00:00","pass":"145","estado":"1"},
+        {"id":"25","nombreUsuario":"","nom_alumn":"Espinoza Gonzal","email":"alexgerardo2000@hotm","celular":"668","num_c":"15063593","grado":"3","grupo":"6","fecha":"2017-11-22 00:00:00","pass":"146","estado":"1"}
+        ]
+    }
